@@ -2213,6 +2213,7 @@ if (typeof PDFJSDev === "undefined" || PDFJSDev.test("GENERIC")) {
     "null",
     "http://mozilla.github.io",
     "https://mozilla.github.io",
+    "https://pdf.ivanli.cc",
   ];
   // eslint-disable-next-line no-var
   var validateFileURL = function (file) {
